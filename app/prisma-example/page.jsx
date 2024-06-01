@@ -5,7 +5,6 @@ const PrismaExamplePage = () => {
   return (
     <div>
       <h1 className="text-7xl">Prisma Page</h1>
-      <Link href="/">Home</Link>
     </div>
   );
 };

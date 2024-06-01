@@ -5,7 +5,6 @@ const DrinksPage = () => {
   return (
     <div>
       <h1 className="text-7xl">Drinks Page</h1>
-      <Link href="/">Home</Link>
     </div>
   );
 };
